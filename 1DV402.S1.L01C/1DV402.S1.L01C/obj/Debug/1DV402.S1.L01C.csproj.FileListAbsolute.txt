@@ -1,0 +1,8 @@
+G:\visual studio 2013\Projects\1DV402.S1.L01C\1DV402.S1.L01C\bin\Debug\1DV402.S1.L01C.exe.config
+G:\visual studio 2013\Projects\1DV402.S1.L01C\1DV402.S1.L01C\bin\Debug\1DV402.S1.L01C.exe
+G:\visual studio 2013\Projects\1DV402.S1.L01C\1DV402.S1.L01C\bin\Debug\1DV402.S1.L01C.pdb
+G:\visual studio 2013\Projects\1DV402.S1.L01C\1DV402.S1.L01C\obj\Debug\1DV402.S1.L01C.csprojResolveAssemblyReference.cache
+G:\visual studio 2013\Projects\1DV402.S1.L01C\1DV402.S1.L01C\obj\Debug\_1DV402.S1.L01C.Properties.Strings.resources
+G:\visual studio 2013\Projects\1DV402.S1.L01C\1DV402.S1.L01C\obj\Debug\1DV402.S1.L01C.csproj.GenerateResource.Cache
+G:\visual studio 2013\Projects\1DV402.S1.L01C\1DV402.S1.L01C\obj\Debug\1DV402.S1.L01C.exe
+G:\visual studio 2013\Projects\1DV402.S1.L01C\1DV402.S1.L01C\obj\Debug\1DV402.S1.L01C.pdb
