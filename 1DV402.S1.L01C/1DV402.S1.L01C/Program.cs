@@ -23,6 +23,8 @@ namespace _1DV402.S1.L01C
 
                 ViewReceipt(total, roundingOffAmount, toPay, cash, change, denominations);
 
+                ViewMessage(Properties.Strings.Continue_Prompt);
+
             } while (Console.ReadKey(true).Key != ConsoleKey.Escape); // http://msdn.microsoft.com/en-us/library/x3h8xffw%28v=vs.110%29.aspx
         }
 
@@ -140,7 +142,6 @@ namespace _1DV402.S1.L01C
                     Console.WriteLine(" {0, 3}-{1, -12}: {2}", denominations[i, 0], noteType, denominations[i, 1]);
                 }
             }
-            ViewMessage(Properties.Strings.Continue_Prompt);
         }
     }
 }
